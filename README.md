@@ -1,9 +1,9 @@
 # Hey, I'm Griselda Silvestre ![Alt Text](https://media1.giphy.com/media/1oCxIGSL2oa0GXuJlP/giphy.gif?cid=ecf05e47wm0indxb03c1r1wjau1u5dreqevk9nsklgpw2lj3&rid=giphy.gif&ct=ts)
 
-![Alt Text](![image](https://c.tenor.com/xq-XUeXzdx4AAAAi/bonjour-salut.gif){width='50px' height='50px'}
+![](![image](https://c.tenor.com/xq-XUeXzdx4AAAAi/bonjour-salut.gif){width='50px' height='50px'}
 
 *Apasionada por el código, disciplinada y comprometida por siempre aprender algo nuevo*
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 
