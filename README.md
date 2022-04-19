@@ -1,5 +1,6 @@
 # Hey, I'm Griselda Silvestre
 *Apasionada por el código, disciplinada y comprometida por siempre aprender algo nuevo*
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 I love supporting the **[EFF](https://c.tenor.com/JhfsrtyytIAAAAAi/trebol-leaf.gif)**.
