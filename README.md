@@ -1,5 +1,7 @@
 # Hey, I'm Griselda Silvestre ![Alt Text](https://media1.giphy.com/media/1oCxIGSL2oa0GXuJlP/giphy.gif?cid=ecf05e47wm0indxb03c1r1wjau1u5dreqevk9nsklgpw2lj3&rid=giphy.gif&ct=ts)
 
+![Alt Text](![image](https://user-images.githubusercontent.com/17931334/164113310-ef10dadb-b635-49d7-8961-770144f4e23f.png)
+
 *Apasionada por el código, disciplinada y comprometida por siempre aprender algo nuevo*
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
