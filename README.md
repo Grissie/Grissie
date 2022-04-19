@@ -4,7 +4,7 @@
 *Apasionada por el código, disciplinada y comprometida por siempre aprender algo nuevo*
 
 
-
+![](https://www.gifsanimados.org/data/media/50/flor-imagen-animada-0365.gif)
 
 
 
