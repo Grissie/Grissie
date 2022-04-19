@@ -1,4 +1,6 @@
-# Hey, I'm Griselda Silvestre ![Alt Text](https://media1.giphy.com/media/1oCxIGSL2oa0GXuJlP/giphy.gif?cid=ecf05e47wm0indxb03c1r1wjau1u5dreqevk9nsklgpw2lj3&rid=giphy.gif&ct=ts)
+# Hey, I'm Griselda Silvestre
+![image](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif)
+![Alt Text](https://media1.giphy.com/media/1oCxIGSL2oa0GXuJlP/giphy.gif?cid=ecf05e47wm0indxb03c1r1wjau1u5dreqevk9nsklgpw2lj3&rid=giphy.gif&ct=ts)
 
 
 *Apasionada por el código, disciplinada y comprometida por siempre aprender algo nuevo*
