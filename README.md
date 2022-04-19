@@ -1,6 +1,6 @@
 # Hey, I'm Griselda Silvestre ![](https://media0.giphy.com/media/SDm6SD4TJxCXLFMq9g/giphy.gif?cid=ecf05e47om8x1fxfs21fd9c4251zm65vxp6x2yaif67gwb0z&rid=giphy.gif&ct=s)
 
-
+![](https://www.gifsanimados.org/data/media/50/flor-imagen-animada-0005.gif)
 *Apasionada por el código, disciplinada y comprometida por siempre aprender algo nuevo*
 
 
