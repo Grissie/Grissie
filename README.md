@@ -5,7 +5,9 @@
 
 
 :pouting_woman: **A little more about me...**
-![](https://previews.123rf.com/images/jemastock/jemastock1612/jemastock161202647/66724293-kawaii-tel%C3%A9fono-inteligente-y-el-icono-de-dibujos-animados-sobre-tecnolog%C3%ADa-de-los-dispositivos-y-el.jpg) { width: 80px; }
+![](https://previews.123rf.com/images/sylverarts/sylverarts1605/sylverarts160500071/56150060-tecnolog%C3%ADa-de-dibujo-3d-vector-con-baja-poli-demolido-objeto-geom%C3%A9trico-y-de-armaz%C3%B3n-papel-pintado-t.jpg)
+
+
 ```diff
 Gris = {
         **pronouns:** 'Gris',
