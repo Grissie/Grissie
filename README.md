@@ -5,7 +5,7 @@
 
 
 :pouting_woman: **A little more about me...**
-![](https://previews.123rf.com/images/sylverarts/sylverarts1605/sylverarts160500071/56150060-tecnolog%C3%ADa-de-dibujo-3d-vector-con-baja-poli-demolido-objeto-geom%C3%A9trico-y-de-armaz%C3%B3n-papel-pintado-t.jpg)
+![](https://previews.123rf.com/images/sylverarts/sylverarts1605/sylverarts160500071/56150060-tecnolog%C3%ADa-de-dibujo-3d-vector-con-baja-poli-demolido-objeto-geom%C3%A9trico-y-de-armaz%C3%B3n-papel-pintado-t.jpg = 10x20)
 
 
 ```diff
