@@ -5,6 +5,7 @@
 
 
 :pouting_woman: **A little more about me...**
+![](https://previews.123rf.com/images/jemastock/jemastock1612/jemastock161202647/66724293-kawaii-tel%C3%A9fono-inteligente-y-el-icono-de-dibujos-animados-sobre-tecnolog%C3%ADa-de-los-dispositivos-y-el.jpg)
 ```diff
 Gris = {
         **pronouns:** 'Gris',
