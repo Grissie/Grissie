@@ -1,9 +1,6 @@
 # Hey, I'm Griselda Silvestre ![](https://www.gifsanimados.org/data/media/50/flor-imagen-animada-0354.gif) ![](https://www.gifsanimados.org/data/media/50/flor-imagen-animada-0318.gif) ![](https://www.gifsanimados.org/data/media/50/flor-imagen-animada-0303.gif) ![](https://www.gifsanimados.org/data/media/278/sol-imagen-animada-0758.gif)
 
 *Organizada, disciplinada y comprometida por siempre aprender algo nuevo*
-*Apasionada por el código, disciplinada y comprometida por siempre aprender algo nuevo*
-
-
 
 
 
