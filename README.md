@@ -7,9 +7,9 @@
 <img src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png" width="50px">**A little more about me...**
 
 
-```diff
+```python
 Gris = {
-        **pronouns:** 'Gris',
+        pronouns: ['Gris', 'Grissie'],
         code: ['HTML', 'CSS', 'C', 'Java', 'Python'],
         tools: ['SQL Server', 'MongoDB','Google Data Studio','Orange', 'Excel Intermedio'],
         areas: ['Data Science', 'Big Data', 'Cloud', 'Bases de Datos']
