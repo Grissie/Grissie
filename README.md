@@ -9,10 +9,13 @@
 const Gris = {
         pronouns: ['Gris', 'Grissie'], 
         code: ['HTML', 'CSS', 'C', 'Java', 'Python', 'SQL','Shell Script'],
-        tools: ['SQL Server', 'MongoDB','Google Data Studio','Orange',Excel Intermediate','Office Intermediate'],
+        tools: ['SQL Server', 'MongoDB','Google Data Studio','Orange','Excel Intermediate','Office Intermediate'],
         areas: ['Data Science', 'Big Data', 'Cloud', 'Bases de Datos']
 }
 ```
+
+
+
 
 <!---
 Gris-95/Gris-95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
