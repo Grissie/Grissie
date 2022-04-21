@@ -1,8 +1,8 @@
 # Hey, I'm Griselda Silvestre ![](https://www.gifsanimados.org/data/media/50/flor-imagen-animada-0318.gif) ![](https://www.gifsanimados.org/data/media/50/flor-imagen-animada-0303.gif) ![](https://www.gifsanimados.org/data/media/278/sol-imagen-animada-0758.gif)
 
-*Computer Engineer organized, disciplined and committed to always learning something new*
+*Ingeniera en Computación organizada, disciplinada y comprometida por siempre aprender algo nuevo*
 
-<img src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png" width="50px">**A little more about me...**
+<img src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png" width="50px">**Un poco sobre mí...**
 
 
 ```javascript
