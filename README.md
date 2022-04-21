@@ -14,14 +14,6 @@ Gris = {
         tools: ['SQL Server', 'MongoDB','Google Data Studio','Orange', 'Excel Intermedio'],
         areas: ['Data Science', 'Big Data', 'Cloud', 'Bases de Datos']
 }
-```html
-<html>
-  <head>
-  </head>
-  <body>
-  <p><br>pronouns</br></p>
-  </body>
-</html>
 ```
 
 <!---
