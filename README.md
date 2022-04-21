@@ -10,8 +10,12 @@
 ```javascript
 const Gris = {
         pronouns: ['Gris', 'Grissie'],
-        code: ['HTML', 'CSS', 'C', 'Java', 'Python'],
-        tools: ['SQL Server', 'MongoDB','Google Data Studio','Orange', 'Excel Intermedio'],
+        code: [
+                <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+              ]
+        
+        code: ['HTML', 'CSS', 'C', 'Java', 'Python', 'SQL'],
+        tools: ['SQL Server', 'MongoDB','Google Data Studio','Orange', 'Excel Intermedio','Office Intermedie',],
         areas: ['Data Science', 'Big Data', 'Cloud', 'Bases de Datos']
 }
 ```
