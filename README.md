@@ -4,15 +4,10 @@
 
 
 
-:pouting_woman: **A little more about me...**
+:pouting_woman: 
 
-<img src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png" width="100px">
+<img src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png" width="80px"> **A little more about me...**
 
-<iframe width="100" height = "80"
-src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png">
-</iframe>
-
-![](https://cdn-icons-png.flaticon.com/512/2026/2026506.png){width='80px' height='20px'} **A little more about me...**
 
 ```diff
 Gris = {
