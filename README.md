@@ -6,6 +6,8 @@
 
 :pouting_woman: **A little more about me...**
 
+<img src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png" width="100px">
+
 <iframe width="100" height = "80"
 src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png">
 </iframe>
