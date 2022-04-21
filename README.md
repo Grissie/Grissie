@@ -4,9 +4,7 @@
 
 
 
-:pouting_woman: 
-
-<img src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png" width="80px"> **A little more about me...**
+<img src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png" width="50px"> **A little more about me...**
 
 
 ```diff
