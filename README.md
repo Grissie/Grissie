@@ -9,7 +9,7 @@
 const Gris = {
         pronombres: ['Gris', 'Grissie'], 
         codigo: ['HTML', 'CSS', 'C', 'Java', 'Python', 'SQL','Shell Script'],
-        herramientas: ['SQL Server', 'MongoDB','Google Data Studio','Orange','Excel Intermediate','Office Intermediate'],
+        herramientas: ['SQL Server', 'MongoDB','Google Data Studio','Orange','Excel Intermedio','Office Intermedio'],
         areas: ['Data Science', 'Big Data', 'Cloud', 'Bases de Datos']
 }
 ```
