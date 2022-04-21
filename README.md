@@ -1,4 +1,4 @@
-# Hey, I'm Griselda Silvestre ![](https://www.gifsanimados.org/data/media/50/flor-imagen-animada-0354.gif) ![](https://www.gifsanimados.org/data/media/50/flor-imagen-animada-0318.gif) ![](https://www.gifsanimados.org/data/media/50/flor-imagen-animada-0303.gif) ![](https://www.gifsanimados.org/data/media/278/sol-imagen-animada-0758.gif)
+# Hey, I'm Griselda Silvestre ![](https://www.gifsanimados.org/data/media/50/flor-imagen-animada-0318.gif) ![](https://www.gifsanimados.org/data/media/50/flor-imagen-animada-0303.gif) ![](https://www.gifsanimados.org/data/media/278/sol-imagen-animada-0758.gif)
 
 *Organized, disciplined and committed to always learning something new*
 
