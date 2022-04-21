@@ -14,7 +14,16 @@ Gris = {
         tools: ['SQL Server', 'MongoDB','Google Data Studio','Orange', 'Excel Intermedio'],
         areas: ['Data Science', 'Big Data', 'Cloud', 'Bases de Datos']
 }
+```html
+<html>
+  <head>
+  </head>
+  <body>
+  <p><br>pronouns</br></p>
+  </body>
+</html>
 ```
+
 <!---
 Gris-95/Gris-95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
