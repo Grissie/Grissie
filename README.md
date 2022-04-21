@@ -7,8 +7,8 @@
 <img src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png" width="50px">**A little more about me...**
 
 
-```python
-Gris = {
+```javascript
+const Gris = {
         pronouns: ['Gris', 'Grissie'],
         code: ['HTML', 'CSS', 'C', 'Java', 'Python'],
         tools: ['SQL Server', 'MongoDB','Google Data Studio','Orange', 'Excel Intermedio'],
