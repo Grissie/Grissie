@@ -2,14 +2,14 @@
 
 *Ingeniera en Computación organizada, disciplinada y comprometida por siempre aprender algo nuevo*
 
-<img src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png" width="50px">**Un poco sobre mí...**
+<img src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png" width="50px"> **Un poco sobre mí...**
 
 
 ```javascript
 const Gris = {
-        pronombres: ['Gris', 'Grissie'], 
-        codigo: ['HTML', 'CSS', 'C', 'Java', 'Python', 'SQL','Shell Script'],
-        herramientas: ['SQL Server', 'MongoDB','Google Data Studio','Orange','Excel Intermedio','Office Intermedio'],
+        pronouns: ['Gris', 'Grissie'], 
+        code: ['HTML', 'CSS', 'C', 'Java', 'Python', 'SQL','Shell Script'],
+        tools: ['SQL Server', 'MongoDB','Google Data Studio','Orange','Excel Intermedio','Office Intermedio'],
         areas: ['Data Science', 'Big Data', 'Cloud', 'Bases de Datos']
 }
 ```
