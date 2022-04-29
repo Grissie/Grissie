@@ -2,6 +2,8 @@
 
 ![](https://c.tenor.com/rAGp98qZAMsAAAAC/bebek-duck.gif =250x250)
 
+<img src="https://c.tenor.com/rAGp98qZAMsAAAAC/bebek-duck.gif" width="48">
+
 *Ingeniera en Computación organizada, disciplinada y comprometida por siempre aprender algo nuevo*
 
 <img src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png" width="50px"> **Un poco sobre mí...**
