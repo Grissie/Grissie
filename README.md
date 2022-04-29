@@ -3,7 +3,7 @@
 *Computer Engineer organized, disciplined and committed to always learning something new*
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png" width="50px"> **Un poco sobre mí...**
+<img src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png" width="50px"> **A little more about me......**
 
 
 ```javascript
