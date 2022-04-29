@@ -2,7 +2,7 @@
 
 ![](https://c.tenor.com/rAGp98qZAMsAAAAC/bebek-duck.gif =250x250)
 
-<img src="https://c.tenor.com/rAGp98qZAMsAAAAC/bebek-duck.gif" width="48">
+<img src="https://c.tenor.com/rAGp98qZAMsAAAAC/bebek-duck.gif" width="80">
 
 *Ingeniera en Computación organizada, disciplinada y comprometida por siempre aprender algo nuevo*
 
