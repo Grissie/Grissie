@@ -1,7 +1,7 @@
 # Hi, I'm Griselda Silvestre <img src="https://c.tenor.com/Yma7l4T9SyYAAAAC/hello.gif" width="100">
 
+*Computer Engineer organized, disciplined and committed to always learning something new*
 
-*Ingeniera en Computación organizada, disciplinada y comprometida por siempre aprender algo nuevo*
 
 <img src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png" width="50px"> **Un poco sobre mí...**
 
