@@ -1,8 +1,7 @@
-# Hi, I'm Griselda Silvestre ![](https://www.gifsanimados.org/data/media/50/flor-imagen-animada-0318.gif) ![](https://www.gifsanimados.org/data/media/50/flor-imagen-animada-0303.gif)
-
-![](https://c.tenor.com/rAGp98qZAMsAAAAC/bebek-duck.gif =250x250)
+# Hi, I'm Griselda Silvestre ![](https://www.gifsanimados.org/data/media/50/flor-imagen-animada-0318.gif)
 
 <img src="https://c.tenor.com/rAGp98qZAMsAAAAC/bebek-duck.gif" width="80">
+
 
 *Ingeniera en Computación organizada, disciplinada y comprometida por siempre aprender algo nuevo*
 
