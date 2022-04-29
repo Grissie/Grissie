@@ -14,6 +14,10 @@ const Gris = {
         areas: ['Data Science', 'Big Data', 'Cloud', 'Bases de Datos']
 }
 ```
+
+<img src="https://c.tenor.com/q2-kGtvmLuwAAAAC/animation-movies.gif">
+
+
 *El único modo de hacer un gran trabajo es amar lo que haces* -*Steve Jobs*
 
 
