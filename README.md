@@ -1,4 +1,6 @@
-# Hi, I'm Griselda Silvestre ![](https://www.gifsanimados.org/data/media/50/flor-imagen-animada-0318.gif)
+# Hi, I'm Griselda Silvestre <img src="https://c.tenor.com/Yma7l4T9SyYAAAAC/hello.gif" width="100">
+
+![](https://www.gifsanimados.org/data/media/50/flor-imagen-animada-0318.gif)
 
 <img src="https://c.tenor.com/rAGp98qZAMsAAAAC/bebek-duck.gif" width="80">
 
