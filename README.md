@@ -8,7 +8,7 @@
 
 ```javascript
 const Gris = {
-        pronouns: ['Gris', 'Grissie'], 
+        pronouns: 'Gris',
         code: ['HTML', 'CSS', 'C', 'Java', 'Python', 'SQL','Shell Script'],
         tools: ['SQL Server', 'MongoDB','Google Data Studio','Orange','Excel Intermedio','Office Intermedio'],
         areas: ['Data Science', 'Big Data', 'Cloud', 'Bases de Datos']
