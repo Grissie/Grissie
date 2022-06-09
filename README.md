@@ -17,7 +17,9 @@ const Gris = {
 }
 ```
 
-<img src="https://c.tenor.com/q2-kGtvmLuwAAAAC/animation-movies.gif" width="100px"> *The only way to do great work is to love what you do -Steve Jobs*
+<img src="https://c.tenor.com/q2-kGtvmLuwAAAAC/animation-movies.gif" width="100px"> 
+
+*The only way to do great work is to love what you do -Steve Jobs*
 
 <!---
 Gris-95/Gris-95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
