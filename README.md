@@ -3,7 +3,7 @@
 *Computer Engineer organized, disciplined and committed to always learning something new*
 
 
-<img src="https://c.tenor.com/X4fIJe75dpcAAAAC/fuse-blockchain-crypto.gif" width="80px"> 
+<img src="https://c.tenor.com/X4fIJe75dpcAAAAC/fuse-blockchain-crypto.gif" width="30px"> 
 
 **A little more about me......**
 
