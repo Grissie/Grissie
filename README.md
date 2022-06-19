@@ -3,7 +3,7 @@
 *Computer Engineer organized, disciplined and committed to always learning something new*
 
 
-<img src="https://c.tenor.com/X4fIJe75dpcAAAAC/fuse-blockchain-crypto.gif" width="30px"> 
+<img src="https://c.tenor.com/X4fIJe75dpcAAAAC/fuse-blockchain-crypto.gif" width="20px"> 
 
 **A little more about me......**
 
@@ -17,7 +17,7 @@ const Gris = {
 }
 ```
 
-<img src="https://c.tenor.com/q2-kGtvmLuwAAAAC/animation-movies.gif" width="80px"> 
+<img src="https://c.tenor.com/q2-kGtvmLuwAAAAC/animation-movies.gif" width="40px"> 
 
 *The only way to do great work is to love what you do -Steve Jobs*
 
