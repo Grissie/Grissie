@@ -12,7 +12,7 @@
 const Gris = {
         pronouns: 'Gris',
         code: ['HTML', 'CSS', 'C', 'Java', 'Python', 'SQL','Shell Script'],
-        tools: ['SQL Server', 'Oracle Database', 'MongoDB','Google Data Studio','Orange','Microsoft Project', 'ETL',  'Excel'],
+        tools: ['SQL Server', 'Oracle Database', 'MongoDB','Google Data Studio','Orange','Microsoft Project', 'ETL',  'Excel', 'AWS', 'GCP'],
         areas: ['Data Science', 'Big Data', 'Cloud', 'Bases de Datos']
 }
 ```
